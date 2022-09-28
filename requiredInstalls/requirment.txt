@@ -1,0 +1,2 @@
+install openssl from steps here
+https://tecadmin.net/install-openssl-on-windows/
